@@ -1,0 +1,8 @@
+2024-12-28 00:03:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-12-28 00:04:01 INFO  TC_001_AccountRegistrationTest:14 - starting TC_001_AccountRegistrationTest 
+2024-12-28 00:04:01 INFO  TC_001_AccountRegistrationTest:18 - Clicked on nmy account link
+2024-12-28 00:04:02 INFO  TC_001_AccountRegistrationTest:20 - Clicked on nmy Register link
+2024-12-28 00:04:02 INFO  TC_001_AccountRegistrationTest:23 - Providing customer details
+2024-12-28 00:04:05 INFO  TC_001_AccountRegistrationTest:37 - Validating Expected meassage

@@ -1,0 +1,95 @@
+2024-12-29 17:02:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:02:49 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:02:49 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:03:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:03:46 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:03:46 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:03:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:03:56 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:03:56 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:06:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:06:26 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:06:26 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:12:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:12:23 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:12:23 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:13:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:13:16 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:13:16 ERROR TC_001_AccountRegistrationTest:44 - test failed
+2024-12-29 17:18:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:19:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:19:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:19:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:20:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:21:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:22:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-12-29 17:22:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-12-29 17:22:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-12-29 17:22:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:24:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:24:44 INFO  TC_001_AccountRegistrationTest:15 - starting TC_001_AccountRegistrationTest 
+2024-12-29 17:24:45 INFO  TC_001_AccountRegistrationTest:19 - Clicked on nmy account link
+2024-12-29 17:24:46 INFO  TC_001_AccountRegistrationTest:21 - Clicked on nmy Register link
+2024-12-29 17:24:46 INFO  TC_001_AccountRegistrationTest:24 - Providing customer details
+2024-12-29 17:24:49 INFO  TC_001_AccountRegistrationTest:38 - Validating Expected meassage
+2024-12-29 17:24:51 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-12-29 17:24:52 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-12-29 17:24:52 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-12-29 17:24:52 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-12-29 17:24:53 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-12-29 17:24:53 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-12-29 17:25:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:29:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:30:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:35:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
+2024-12-29 17:40:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 17:42:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\master.xml
+
+2024-12-29 18:41:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ASUS\Downloads\Roonga_Automation_Project\Grid-Docker.xml
+
