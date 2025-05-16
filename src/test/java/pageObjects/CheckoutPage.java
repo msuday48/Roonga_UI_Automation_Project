@@ -80,7 +80,6 @@ public class CheckoutPage extends BasePage{
 		txtfirstName.sendKeys(firstName);
 	}
 
-
 	public void setlastName(String lastName) {
 		txtlastName.sendKeys(lastName);
 	}

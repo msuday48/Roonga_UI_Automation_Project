@@ -1,5 +1,4 @@
 package pageObjects;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -18,7 +17,8 @@ public class SearchPage extends BasePage
 				
 		@FindBy(name="quantity")
 		WebElement txtquantity;
-		
+
+
 		@FindBy(xpath="//button[@id='button-cart']")
 		WebElement btnaddToCart;
 		
@@ -36,11 +36,8 @@ public class SearchPage extends BasePage
 				break;
 				}
 			}
-			
 			return flag;
-		
 		}
-		
 		public void selectProduct(String productName)
 		{
 			for(WebElement product:searchProducts)
@@ -75,6 +72,4 @@ public class SearchPage extends BasePage
 				return false;
 			}
 		}
-		
 }
-

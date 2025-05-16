@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
@@ -6,13 +7,14 @@
     </listeners>
 
     <test thread-count="5" name="C:/Users/ASUS/Downloads/Roonga_Automation_Project">
-      <parameter name="os" value="Linux"/>
+      <parameter name="os" value="Windows"/>
           <parameter name="browser" value="chrome"/>
 
         <classes>
-            <class name="testCases.TC_001_AccountRegistrationTest"/>
-            <class name="testCases.TC_002_LoginTest">
-            <!--  <class name="testCases.TC_003_LoginDDT"> -->
+            <!--   <class name="testCases.TC_001_AccountRegistrationTest"/>-->
+             <!--  <class name="testCases.TC_002_LoginTest"/>-->
+               <class name="testCases.TC_005_AddToCartPageTest">
+           <!--  <class name="testCases.TC_003_LoginDDT"> -->
               </class>
           </classes>
       </test>

@@ -10,7 +10,6 @@ public class ShoppingCartPage extends BasePage
 	{
 		super(driver);
 	}
-	
 	//@FindBy(xpath="//button[@aria-expanded='false']")
 	@FindBy(xpath="//div[@id='cart']")
 	WebElement btnItems;
@@ -28,17 +27,14 @@ public class ShoppingCartPage extends BasePage
 	{
 		btnItems.click();
 	}
-	
 	public void clickViewCart()
 	{
 		lnkViewCart.click();
 	}
-	
 	public String getTotalPrice()
 	{
 		return lblTotalPrice.getText();
 	}
-	
 	public void clickOnCheckout()
 	{
 		btnCheckout.click();

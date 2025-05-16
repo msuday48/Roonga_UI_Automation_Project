@@ -29,8 +29,6 @@ public class TC_004_SearchProductTest extends BaseClass {
 		} catch (Exception e) {
 			Assert.fail();
 		}
-
 		logger.info(" Finished TC_004_SearchProductTest ");
-
 	}
 }

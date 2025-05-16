@@ -19,25 +19,18 @@ public class TC_005_AddToCartPageTest extends BaseClass {
 			
 			hp.enterProductName("iPhone");
 			hp.clickSearch();
-			
-						
+
 			SearchPage sp=new SearchPage(driver);
 			
-			if(sp.isProductExist("iPhone"))
-			{
+			if(sp.isProductExist("iPhone")) {
 				sp.selectProduct("iPhone");
 				sp.setQuantity("2");
 				sp.addToCart();
-				
 			}
-						
 			Assert.assertEquals(sp.checkConfMsg(),true);
-
 		} catch (Exception e) {
 			Assert.fail();
 		}
-
 		logger.info(" Finished TC_004_SearchProductTest ");
-
 	}
 }

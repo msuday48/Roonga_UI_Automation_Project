@@ -1,11 +1,9 @@
 package utilities;
 
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.FillPatternType;
@@ -149,7 +147,4 @@ public class ExcelUtility {
 		fi.close();
 		fo.close();
 	}
-	
 }
-
-
